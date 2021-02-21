@@ -59,7 +59,7 @@ Superscript: X<sub>2</sub>，Subscript: O<sup>2</sup>
 
 The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
 
-###Blockquotes
+### Blockquotes
 
 > Blockquotes
 
@@ -67,7 +67,7 @@ Paragraphs and Line Breaks
                     
 > "Blockquotes Blockquotes", [Link](http://localhost/)。
 
-###Links
+### Links
 
 [Links](http://localhost/)
 
@@ -81,13 +81,13 @@ Paragraphs and Line Breaks
 
 GFM a-tail link @pandao
 
-###Code Blocks (multi-language) & highlighting
+### Code Blocks (multi-language) & highlighting
 
-####Inline code
+#### Inline code
 
 `$ npm install marked`
 
-####Code Blocks (Indented style)
+#### Code Blocks (Indented style)
 
 Indented 4 spaces, like `<pre>` (Preformatted Text).
 
@@ -102,7 +102,7 @@ Code Blocks (Preformatted text):
     | Content Cell  | Content Cell  |
     | Content Cell  | Content Cell  |
 
-####Javascript　
+#### Javascript　
 
 ```javascript
 function test(){
@@ -143,7 +143,7 @@ var testBox = box();
 testBox.add("jQuery").remove("jQuery");
 ```
 
-####HTML code
+#### HTML code
 
 ```html
 <!DOCTYPE html>
@@ -178,21 +178,21 @@ Image:
                 
 ----
 
-###Lists
+### Lists
 
-####Unordered list (-)
+#### Unordered list (-)
 
 - Item A
 - Item B
 - Item C
      
-####Unordered list (*)
+#### Unordered list (*)
 
 * Item A
 * Item B
 * Item C
 
-####Unordered list (plus sign and nested)
+#### Unordered list (plus sign and nested)
                 
 + Item A
 + Item B
@@ -204,7 +204,7 @@ Image:
     * Item C 2
     * Item C 3
 
-####Ordered list
+#### Ordered list
                 
 1. Item A
 2. Item B
